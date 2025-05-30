@@ -1,7 +1,7 @@
 # Modelo-SIR
 Modelo SIR
 
-USA:
-numpy
-scipy
+Necesita:
+numpy, 
+scipy, 
 matplotlib
